@@ -12,6 +12,7 @@ body {
     min-height: 40vw;
     /* min-width: 40vw; */
     background: #2f363e;
+    overflow:hidden;
 }
 
 #time {
